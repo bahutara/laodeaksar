@@ -1,0 +1,7 @@
+{
+  "include": [
+    "src",
+    "types"
+  ],
+  "extends": "@laodeaksar/tsconfig/theme-kit.json"
+}
